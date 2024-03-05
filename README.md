@@ -1,11 +1,11 @@
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
-```
+
 <H3> Name: Harini B. </H3>
 <H3> Register No: 212221230035</H3>
 <H3> Experiment 1</H3>
 <H3> DATE: 05-03-2024</H3>
-```
+
 
 ## Aim :
     To create a bayesian Network for the given dataset in Python
